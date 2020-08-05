@@ -1,8 +1,8 @@
-import 'file:///F:/Flutter/expanrr/lib/Screens/Business.dart';
-import 'file:///F:/Flutter/expanrr/lib/Screens/Digital_Wisdom.dart';
+import 'Business.dart';
+import 'Digital_Wisdom.dart';
 import 'package:expanrr/Screens/Join_Our_Team.dart';
 import 'package:expanrr/Screens/Our_Story.dart';
-import 'file:///F:/Flutter/expanrr/lib/Screens/Startups.dart';
+import 'Startups.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:social_media_buttons/social_media_buttons.dart';

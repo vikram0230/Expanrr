@@ -2,9 +2,9 @@ import 'package:expanrr/Screens/Join_Our_Team.dart';
 import 'package:expanrr/Screens/Our_Story.dart';
 import 'package:flutter/material.dart';
 import 'package:expanrr/Screens/Home.dart';
-import 'file:///F:/Flutter/expanrr/lib/Screens/Startups.dart';
-import 'file:///F:/Flutter/expanrr/lib/Screens/Business.dart';
-import 'file:///F:/Flutter/expanrr/lib/Screens/Digital_Wisdom.dart';
+import 'Screens/Startups.dart';
+import 'Screens/Business.dart';
+import 'Screens/Digital_Wisdom.dart';
 
 void main() {
   runApp(MyApp());

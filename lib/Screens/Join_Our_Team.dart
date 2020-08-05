@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:expanrr/Utilities/CustomTextField.dart';
-import 'package:url_launcher/url_launcher.dart'
-    '';
+import 'package:url_launcher/url_launcher.dart';
 
 class JoinOurTeam extends StatefulWidget {
   static String id = 'join';
